@@ -9,7 +9,6 @@ I am a passionate **Flutter Developer** from Egypt 🇪🇬, with over 1 year of
 - 🔹 **Backend Integration:** Skilled in Firebase (Auth, Firestore, Crashlytics) and RESTful APIs.
 - 🔹 **UI/UX Design:** Focused on delivering sleek, user-friendly interfaces.
 
-<h2 align="left">Hi 👋! My name is Mohammed Saber and I'm a Flutter Developer, from Egypt</h2>
 
 ###
 
@@ -66,5 +65,6 @@ I am a passionate **Flutter Developer** from Egypt 🇪🇬, with over 1 year of
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/DevMohammedSaber/DevMohammedSaber/output/snake.svg" alt="Snake animation" />
+
 
 ###
