@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/DevMohammedSaber/DevMohammedSaber/blob/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
 ###
