@@ -66,5 +66,4 @@ I am a passionate **Flutter Developer** from Egypt 🇪🇬, with over 1 year of
 
 <img src="https://raw.githubusercontent.com/DevMohammedSaber/DevMohammedSaber/output/snake.svg" alt="Snake animation" />
 
-
 ###
