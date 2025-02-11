@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Mohammed Saber
 
 ### 🚀 About Me
-I am a passionate **Flutter Developer** from Egypt 🇪🇬, with over 1 year of experience in building scalable, cross-platform mobile applications. I specialize in developing user-centric apps with clean architecture and modern design principles.
+I am a passionate **Flutter Developer** from Egypt 🇪🇬, with over 2 year of experience in building scalable, cross-platform mobile applications. I specialize in developing user-centric apps with clean architecture and modern design principles.
 
 ### 💻 What I Do
 - 🔹 **Mobile Development:** Expert in Flutter & Dart, with experience in Kotlin and Swift.
