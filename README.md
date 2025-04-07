@@ -6,7 +6,7 @@ I am a passionate **Flutter Developer** from Egypt 🇪🇬, with over 2 year of
 ### 💻 What I Do
 - 🔹 **Mobile Development:** Expert in Flutter & Dart, with experience in Kotlin and Swift.
 - 🔹 **State Management:** Proficient in Bloc, GetX, and Provider.
-- 🔹 **Backend Integration:** Skilled in Firebase (Auth, Firestore, Crashlytics) and RESTful APIs.
+- 🔹 **Backend Integration:** Skilled in Firebase (Auth, Firestore, Crashlytics), RESTful and GraphQL APIs.
 - 🔹 **UI/UX Design:** Focused on delivering sleek, user-friendly interfaces.
 
 
