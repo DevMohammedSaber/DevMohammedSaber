@@ -85,8 +85,10 @@ Deployed for **100+ merchants**, real-time order sync and operational workflows.
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMohammedSaber&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMohammedSaber&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMohammedSaber&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&cache_seconds=1800&v=1" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMohammedSaber&layout=compact&langs_count=6&theme=dracula&hide_border=true&cache_seconds=1800&v=1" height="160" />
+
 </div>
 
 ---
