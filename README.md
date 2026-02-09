@@ -1,69 +1,44 @@
-# Hi there 👋, I'm Mohammed Saber
+<div align="center">
 
-### 🚀 About Me
-I am a passionate **Flutter Developer** from Egypt 🇪🇬, with over 3 year of experience in building scalable, cross-platform mobile applications. I specialize in developing user-centric apps with clean architecture and modern design principles.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Mohammed+Saber;Senior+Flutter+Developer+%F0%9F%9A%80;Crafting+Scalable+Mobile+Apps" alt="Typing SVG" />
 
-### 💻 What I Do
-- 🔹 **Mobile Development:** Expert in Flutter & Dart, with experience in Kotlin and Swift.
-- 🔹 **State Management:** Proficient in Bloc, GetX, and Provider.
-- 🔹 **Backend Integration:** Skilled in Firebase (Auth, Firestore, Crashlytics), RESTful and GraphQL APIs.
-- 🔹 **UI/UX Design:** Focused on delivering sleek, user-friendly interfaces.
+### Engineering Robust Mobile Experiences 🇪🇬
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-saber-00b086217/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mohammedsaber@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/o3fd8p)
 
-###
+</div>
+
+---
+
+### 👨‍💻 Professional Summary
+
+I am a results-driven **Senior Flutter Developer** with **3+ years of expertise** in the full mobile development lifecycle. I specialize in architecting **scalable, testable, and maintainable codebases** using Clean Architecture and SOLID principles.
+
+My focus goes beyond just writing code; I strive to optimize performance, implement robust CI/CD pipelines, and deliver pixel-perfect UI/UX.
+
+### 🛠 Tech Stack & Arsenal
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Core** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) |
+| **Architecture** | Clean Architecture, MVVM, SOLID, Dependency Injection, Modularization |
+| **State Mgt** | ![Bloc](https://img.shields.io/badge/Bloc-Very_Good_Ventures-blue?style=flat) ![Provider](https://img.shields.io/badge/Provider-State_Management-blue?style=flat) ![GetX](https://img.shields.io/badge/GetX-Purple?style=flat) |
+| **Backend/Cloud** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-00569E?style=flat) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) |
+| **Tools & CI/CD** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330?style=flat&logo=gitlab&logoColor=white) Codemagic, GitHub Actions |
+
+<br/>
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMohammedSaber&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMohammedSaber&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMohammedSaber&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMohammedSaber&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="160" alt="languages graph" />
 </div>
 
-###
+<br/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
-</div>
+### 🐍 Contributions
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohamed-saber-00b086217/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:dev.mohammedsaber@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.link/o3fd8p" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://appgain.slack.com/team/U06P563JFND" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
