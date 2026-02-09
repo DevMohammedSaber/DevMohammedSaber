@@ -85,8 +85,7 @@ Deployed for **100+ merchants**, real-time order sync and operational workflows.
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevMohammedSaber&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" height="160" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=DevMohammedSaber&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="160" />
+  <img src="./github-metrics.svg" />
 </div>
 
 ---
