@@ -85,7 +85,7 @@ Deployed for **100+ merchants**, real-time order sync and operational workflows.
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="./github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/DevMohammedSaber/DevMohammedSaber/main/github-metrics.svg" />
 </div>
 
 ---
