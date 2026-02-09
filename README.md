@@ -67,18 +67,94 @@ I focus on **architecture, performance, stability, CI/CD**, and **pixel-perfect 
 
 ## 🚀 Featured Projects
 
-### 🏠 Aqarak — Real Estate Marketplace
-Interactive maps, advanced filtering, real-time chat, and push notifications.  
-**16+ releases** on Android & iOS.
+## 🚀 Featured Mobile Projects
 
-### 🌍 Rawafed — Bilingual Mobile App
-Secure payment processing, biometric auth, rich media handling, full RTL/LTR.
+### 🏠 **Aqarak — Real Estate Marketplace**
+Real estate platform with interactive maps, advanced filtering, real-time chat, and push notifications.  
+**16+ production releases** on Android & iOS.
 
-### 🎥 Toki — Video Chat App
-Agora RTC real-time video (with PiP), optimized for engagement and stability.
+🔗 **Store Links**
+- 🍎 iOS: https://apps.apple.com/us/app/akarak-%D8%B9%D9%82%D8%A7%D8%B1%D9%83/id6754215567 
+- 🤖 Android: https://play.google.com/store/apps/details?id=com.aqaraksd.aqarak_app&hl=en_US
 
-### 🏪 Retail Gain — POS & Consumer Platform
-Deployed for **100+ merchants**, real-time order sync and operational workflows.
+---
+
+### 🌍 **Rawafed — Bilingual Mobile App**
+Secure mobile app with payment integration, biometric authentication, rich media handling, and full **RTL/LTR** localization.
+
+🔗 **Store Links**
+- 🍎 iOS: https://apps.apple.com/us/app/rawafed-%D8%B1%D9%88%D8%A7%D9%81%D8%AF/id6758261806 
+- 🤖 Android: https://play.google.com/store/apps/details?id=com.websoft.rawafed_app&hl=en_US
+
+---
+
+### 🎥 **Toki — Video Chat App**
+High-quality real-time video communication using **Agora RTC**, including Picture-in-Picture (PiP) support and performance optimization.
+
+🔗 **Store Links**
+- 🍎 iOS: https://apps.apple.com/ae/app/toki-video-chat/id6497950837 
+- 🤖 Android: https://play.google.com/store/apps/details?id=com.appgain.toki&hl=en_US
+
+---
+
+### 🏪 **Retail Gain — POS & Consumer Platform**
+End-to-end POS and consumer mobile solution deployed for **100+ merchants**, featuring real-time order synchronization and operational workflows.
+
+🔗 **Store Links**
+- 🍎 iOS: https://apps.apple.com/ae/app/pos-pro/id6470136477
+- 🤖 Android: https://play.google.com/store/apps/details?id=com.appgain.retailgain&hl=en_US
+
+### 🏠 **Trent — Real Estate Platform**
+Modern real estate application with advanced search, interactive maps, and scalable architecture.
+
+🔗 **Store Links**
+- 🍎 iOS: https://apps.apple.com/us/app/trent-eg/id6744845845  
+- 🤖 Android: https://play.google.com/store/apps/details?id=com.catlyst.trent  
+
+---
+
+### 🌍 **Ikhair — Donation Platform**
+Charity and donation platform supporting secure transactions and user-friendly contribution flows.
+
+🔗 **Store Links**
+- 🍎 iOS: https://apps.apple.com/ae/app/ikhair-for-donation/id542915812  
+- 🤖 Android: https://play.google.com/store/apps/details?id=com.quantatil.ikhar  
+
+---
+
+### 🕌 **Marrakesh — Consumer App**
+Consumer-facing mobile app with smooth UI, localization support, and scalable backend integration.
+
+🔗 **Store Links**
+- 🍎 iOS: https://apps.apple.com/ae/app/marrakesh/id6739181790  
+- 🤖 Android: https://play.google.com/store/apps/details?id=com.appgain.marrakeshconsumer  
+
+---
+
+### 🏥 **Al Dhafra Health Forum 2025 — Attendees App**
+Official event application for attendees, featuring schedules, notifications, and real-time updates.
+
+🔗 **Store Links**
+- 🍎 iOS: https://apps.apple.com/ae/app/al-dhafra-health-forum-2025/id6736469174  
+- 🤖 Android: https://play.google.com/store/apps/details?id=com.appgain.zhafra_attendees_app  
+
+---
+
+### 🛠 **Al Dhafra Health Forum — Admin App**
+Administrative mobile application for managing attendees, sessions, and live event operations.
+
+🔗 **Store Links**
+- 🍎 iOS: https://apps.apple.com/ae/app/al-dhafra-health-forum-admin/id6736685340  
+- 🤖 Android: https://play.google.com/store/apps/details?id=com.appgain.alzhafra_admin_app  
+
+---
+
+### 💊 **Peak Pharmaceuticals**
+Healthcare & pharmaceutical mobile platform with clean UX, performance-focused architecture, and secure data handling.
+
+🔗 **Store Links**
+- 🍎 iOS: https://apps.apple.com/ae/app/peak-pharmaceuticals/id6739813080  
+- 🤖 Android: https://play.google.com/store/apps/details?id=com.appgain.peakPharma  
 
 ---
 
