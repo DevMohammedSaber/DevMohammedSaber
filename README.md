@@ -82,14 +82,6 @@ Deployed for **100+ merchants**, real-time order sync and operational workflows.
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DevMohammedSaber/DevMohammedSaber/main/github-metrics.svg" />
-</div>
-
----
-
 ## 🐍 Contributions
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
