@@ -164,12 +164,4 @@ Healthcare & pharmaceutical mobile platform with clean UX, performance-focused a
 
 ---
 
-## 🤝 Let’s Connect
-
-- LinkedIn: https://www.linkedin.com/in/mohamed-saber-00b086217/
-- Email: dev.mohammedsaber@gmail.com
-- WhatsApp: https://wa.link/o3fd8p
-
----
-
 ⭐ If you’re building a Flutter product and care about **architecture, speed, and stability**, let’s talk.
