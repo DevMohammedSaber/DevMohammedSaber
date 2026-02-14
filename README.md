@@ -65,8 +65,6 @@ I focus on **architecture, performance, stability, CI/CD**, and **pixel-perfect 
 
 ---
 
-## 🚀 Featured Projects
-
 ## 🚀 Featured Mobile Projects
 
 ### 🏠 **Aqarak — Real Estate Marketplace**
