@@ -31,6 +31,10 @@ Flutter Developer at **[Websoft](https://www.linkedin.com/company/websoftsa)** (
 
 ## Selected apps
 
+### [Arqam POS](https://apps.apple.com/us/app/arqam-pos/id6761840170) — multi-tenant point of sale
+POS and inventory for retail and wholesale stores. Works offline with Drift / SQLite and background sync, prints to Bluetooth and Wi-Fi receipt printers, reads barcode scanners, and shows live sales dashboards in Arabic and English.  
+[App Store](https://apps.apple.com/us/app/arqam-pos/id6761840170) · [Google Play](https://play.google.com/store/apps/details?id=com.websoft.arqam)
+
 ### [Aqarak](https://apps.apple.com/us/app/akarak-%D8%B9%D9%82%D8%A7%D8%B1%D9%83/id6754215567) — real estate marketplace
 Interactive maps, advanced filtering, real-time chat, and push notifications. 16+ releases on Android and iOS, and **1K+ downloads** on Google Play.  
 [App Store](https://apps.apple.com/us/app/akarak-%D8%B9%D9%82%D8%A7%D8%B1%D9%83/id6754215567) · [Google Play](https://play.google.com/store/apps/details?id=com.aqaraksd.aqarak_app)
@@ -40,7 +44,7 @@ Payments, biometric authentication, rich media, and full Arabic / English layout
 [App Store](https://apps.apple.com/us/app/rawafed-%D8%B1%D9%88%D8%A7%D9%81%D8%AF/id6758261806) · [Google Play](https://play.google.com/store/apps/details?id=com.websoft.rawafed_app)
 
 ### [Trent](https://apps.apple.com/us/app/trent-eg/id6744845845) — real estate search
-30K+ listings, Google Maps, and Fawry Pay. **5K+ downloads** on Google Play. Crash rate brought down with null safety and Crashlytics.  
+30K+ listings, Google Maps, and Fawry Pay with 300+ secure online payments. **5K+ downloads** on Google Play.  
 [App Store](https://apps.apple.com/us/app/trent-eg/id6744845845) · [Google Play](https://play.google.com/store/apps/details?id=com.catlyst.trent)
 
 ### [Toki](https://apps.apple.com/ae/app/toki-video-chat/id6497950837) — video chat
@@ -70,7 +74,7 @@ Agora RTC with Picture-in-Picture. **10K+ downloads** on Google Play.
 | **Appgain.io** · Cairo | Flutter Developer | Jan 2024 — Jan 2025 |
 | **Independent** · Cairo | Flutter Developer | Mar 2022 — Jun 2024 |
 
-At Websoft I owned **Aqarak** (**1K+ downloads** on Google Play) and **Rawafed** end to end: Clean Architecture, BLoC, and a Dio layer with interceptors, retries, and offline handling.
+At Websoft I built **Arqam POS**, a multi-tenant point of sale that keeps selling offline and syncs in the background, and I owned **Aqarak** (**1K+ downloads** on Google Play) and **Rawafed** end to end: Clean Architecture, BLoC, and a Dio layer with interceptors, retries, and offline handling.
 
 At Catalyst I worked on **Trent** (**5K+ downloads** on Google Play, maps and payments), **Fit Nation** (Google Fit and Apple HealthKit), and **Fatla**, a fashion store with search and checkout.
 
