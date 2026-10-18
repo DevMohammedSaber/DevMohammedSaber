@@ -17,7 +17,7 @@ Flutter Developer at **[Websoft](https://www.linkedin.com/company/websoftsa)** (
 - Shipped **Aqarak** through **16+ production releases**, with maps, filters, chat, and push notifications.
 - Cut crash rates by **up to 40%** by upgrading legacy apps and watching Firebase Crashlytics.
 - Built real-time video, payments, maps, and full **RTL / LTR** localization into apps that are live on both stores.
-- **iKhair** passed **50K+ downloads** on Google Play, and **Toki** passed **10K+**.
+- **iKhair** passed **50K+ downloads** on Google Play, **Toki** passed **10K+**, **Trent** passed **5K+**, and **Aqarak** passed **1K+**.
 
 ## What I work on
 
@@ -32,7 +32,7 @@ Flutter Developer at **[Websoft](https://www.linkedin.com/company/websoftsa)** (
 ## Selected apps
 
 ### [Aqarak](https://apps.apple.com/us/app/akarak-%D8%B9%D9%82%D8%A7%D8%B1%D9%83/id6754215567) — real estate marketplace
-Interactive maps, advanced filtering, real-time chat, and push notifications. 16+ releases on Android and iOS.  
+Interactive maps, advanced filtering, real-time chat, and push notifications. 16+ releases on Android and iOS, and **1K+ downloads** on Google Play.  
 [App Store](https://apps.apple.com/us/app/akarak-%D8%B9%D9%82%D8%A7%D8%B1%D9%83/id6754215567) · [Google Play](https://play.google.com/store/apps/details?id=com.aqaraksd.aqarak_app)
 
 ### [Rawafed](https://apps.apple.com/us/app/rawafed-%D8%B1%D9%88%D8%A7%D9%81%D8%AF/id6758261806) — bilingual product
@@ -40,7 +40,7 @@ Payments, biometric authentication, rich media, and full Arabic / English layout
 [App Store](https://apps.apple.com/us/app/rawafed-%D8%B1%D9%88%D8%A7%D9%81%D8%AF/id6758261806) · [Google Play](https://play.google.com/store/apps/details?id=com.websoft.rawafed_app)
 
 ### [Trent](https://apps.apple.com/us/app/trent-eg/id6744845845) — real estate search
-30K+ listings, Google Maps, and Fawry Pay. Crash rate brought down with null safety and Crashlytics.  
+30K+ listings, Google Maps, and Fawry Pay. **5K+ downloads** on Google Play. Crash rate brought down with null safety and Crashlytics.  
 [App Store](https://apps.apple.com/us/app/trent-eg/id6744845845) · [Google Play](https://play.google.com/store/apps/details?id=com.catlyst.trent)
 
 ### [Toki](https://apps.apple.com/ae/app/toki-video-chat/id6497950837) — video chat
@@ -70,9 +70,9 @@ Agora RTC with Picture-in-Picture. **10K+ downloads** on Google Play.
 | **Appgain.io** · Cairo | Flutter Developer | Jan 2024 — Jan 2025 |
 | **Independent** · Cairo | Flutter Developer | Mar 2022 — Jun 2024 |
 
-At Websoft I owned **Aqarak** and **Rawafed** end to end: Clean Architecture, BLoC, and a Dio layer with interceptors, retries, and offline handling.
+At Websoft I owned **Aqarak** (**1K+ downloads** on Google Play) and **Rawafed** end to end: Clean Architecture, BLoC, and a Dio layer with interceptors, retries, and offline handling.
 
-At Catalyst I worked on **Trent** (maps and payments), **Fit Nation** (Google Fit and Apple HealthKit), and **Fatla**, a fashion store with search and checkout.
+At Catalyst I worked on **Trent** (**5K+ downloads** on Google Play, maps and payments), **Fit Nation** (Google Fit and Apple HealthKit), and **Fatla**, a fashion store with search and checkout.
 
 At Appgain I delivered **5+ production apps**, including **iKhair (50K+ downloads on Google Play)** and **Toki (10K+)**, plus Agora video with Picture-in-Picture and upgrades to Flutter 3.24 / Dart 3.5.
 
