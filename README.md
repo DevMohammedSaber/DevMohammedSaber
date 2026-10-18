@@ -17,6 +17,7 @@ Flutter Developer at **[Websoft](https://www.linkedin.com/company/websoftsa)** (
 - Shipped **Aqarak** through **16+ production releases**, with maps, filters, chat, and push notifications.
 - Cut crash rates by **up to 40%** by upgrading legacy apps and watching Firebase Crashlytics.
 - Built real-time video, payments, maps, and full **RTL / LTR** localization into apps that are live on both stores.
+- **iKhair** passed **50K+ downloads** on Google Play, and **Toki** passed **10K+**.
 
 ## What I work on
 
@@ -43,7 +44,7 @@ Payments, biometric authentication, rich media, and full Arabic / English layout
 [App Store](https://apps.apple.com/us/app/trent-eg/id6744845845) · [Google Play](https://play.google.com/store/apps/details?id=com.catlyst.trent)
 
 ### [Toki](https://apps.apple.com/ae/app/toki-video-chat/id6497950837) — video chat
-Agora RTC with Picture-in-Picture and the performance work that keeps calls stable.  
+Agora RTC with Picture-in-Picture. **10K+ downloads** on Google Play.  
 [App Store](https://apps.apple.com/ae/app/toki-video-chat/id6497950837) · [Google Play](https://play.google.com/store/apps/details?id=com.appgain.toki)
 
 <details>
@@ -52,7 +53,7 @@ Agora RTC with Picture-in-Picture and the performance work that keeps calls stab
 | App | What it is | Stores |
 | --- | --- | --- |
 | Retail Gain | POS and consumer app used by 100+ merchants | [iOS](https://apps.apple.com/ae/app/pos-pro/id6470136477) · [Android](https://play.google.com/store/apps/details?id=com.appgain.retailgain) |
-| Ikhair | Donation flows and secure contributions | [iOS](https://apps.apple.com/ae/app/ikhair-for-donation/id542915812) · [Android](https://play.google.com/store/apps/details?id=com.quantatil.ikhar) |
+| Ikhair | UAE donation app, **50K+ downloads** on Google Play | [iOS](https://apps.apple.com/ae/app/ikhair-for-donation/id542915812) · [Android](https://play.google.com/store/apps/details?id=com.quantatil.ikhar) |
 | Marrakesh | Consumer app with localization and a scalable client | [iOS](https://apps.apple.com/ae/app/marrakesh/id6739181790) · [Android](https://play.google.com/store/apps/details?id=com.appgain.marrakeshconsumer) |
 | Al Dhafra 2025 | Attendee app: schedule, notifications, live updates | [iOS](https://apps.apple.com/ae/app/al-dhafra-health-forum-2025/id6736469174) · [Android](https://play.google.com/store/apps/details?id=com.appgain.zhafra_attendees_app) |
 | Al Dhafra Admin | Event operations for attendees and sessions | [iOS](https://apps.apple.com/ae/app/al-dhafra-health-forum-admin/id6736685340) · [Android](https://play.google.com/store/apps/details?id=com.appgain.alzhafra_admin_app) |
@@ -73,7 +74,7 @@ At Websoft I owned **Aqarak** and **Rawafed** end to end: Clean Architecture, BL
 
 At Catalyst I worked on **Trent** (maps and payments), **Fit Nation** (Google Fit and Apple HealthKit), and **Fatla**, a fashion store with search and checkout.
 
-At Appgain I delivered **5+ production apps** and about **50K+ downloads**, including Agora video with Picture-in-Picture, and upgrades to Flutter 3.24 / Dart 3.5.
+At Appgain I delivered **5+ production apps**, including **iKhair (50K+ downloads on Google Play)** and **Toki (10K+)**, plus Agora video with Picture-in-Picture and upgrades to Flutter 3.24 / Dart 3.5.
 
 ## Code on GitHub
 
