@@ -6,7 +6,7 @@ I ship production iOS and Android apps — Clean Architecture, BLoC, and release
 Flutter Developer at **[Websoft](https://www.linkedin.com/company/websoftsa)** (remote, KSA) · open to product teams that care about architecture and release quality.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-saber-00b086217/)
-[![Email](https://img.shields.io/badge/Email-dev.mohammedsaber%40gmail.com-444444?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.mohammedsaber@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mohamedsaber100896%40gmail.com-444444?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedsaber100896@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.link/o3fd8p)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/m.s.e1230)
 
@@ -99,4 +99,4 @@ BLoC / Cubit · Provider · GetX · Dio · Agora · Socket.IO · Google Maps · 
 
 ---
 
-If you are hiring for a Flutter product and want someone who owns architecture through release, email me at **dev.mohammedsaber@gmail.com**.
+If you are hiring for a Flutter product and want someone who owns architecture through release, email me at **mohamedsaber100896@gmail.com**.
