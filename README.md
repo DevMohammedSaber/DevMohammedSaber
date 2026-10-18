@@ -8,6 +8,7 @@ Flutter Developer at **[Websoft](https://www.linkedin.com/company/websoftsa)** (
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-saber-00b086217/)
 [![Email](https://img.shields.io/badge/Email-dev.mohammedsaber%40gmail.com-444444?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.mohammedsaber@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.link/o3fd8p)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/m.s.e1230)
 
 ## About
 
@@ -61,7 +62,7 @@ Agora RTC with Picture-in-Picture and the performance work that keeps calls stab
 
 ## Experience
 
-| | Role | When |
+| Company | Role | When |
 | --- | --- | --- |
 | **Websoft** · Remote, KSA | Flutter Developer | Oct 2025 — Present |
 | **Catalyst Marketing Agency** · New Cairo | Flutter Developer | Feb 2025 — Sep 2025 |
